@@ -1,0 +1,1 @@
+call "C:\Program Files\VideoLAN\VLC\vlc.exe" -vvv 1.mp4 :sout=#:std{access=udp,mux=ts,dst=228.50.50.50:2022} --ttl 200

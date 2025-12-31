@@ -1,0 +1,18 @@
+---
+- hosts: all
+  tasks:
+    - shell: rm -rf /etc/yum.repos.d/*
+
+- hosts: linux7.skills.com
+  tasks:
+    - yum_repository:
+            name: AppStream
+            description: AppStream
+            baseurl: http://10.10.120.105/cdrom/AppStream
+
+- hosts: linux7.skills.com
+  tasks:
+    - yum_repository:
+            name: Base
+            description: Base
+            baseurl: http://10.10.120.105/cdrom/BaseOS

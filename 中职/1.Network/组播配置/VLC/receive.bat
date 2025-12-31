@@ -1,0 +1,1 @@
+call "C:\Program Files\VideoLAN\VLC\vlc.exe" -vvv udp://@228.50.50.50:2022
