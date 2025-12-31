@@ -33,8 +33,10 @@ linux7.skills.com: Authroized
 `pcs cluster status`
 
 - 配置集群属性stonith-enabled
+`pcs property set stonith-enabled=false`
+- 改配置只需要在node1也就是linux6上进行配置
+
 - 在 Pacemaker 集群管理系统中，stonith-enabled 是一个集群属性，用于控制 STONITH（Shoot The Other Node In The Head）的启用状态。
-yum i
   - STONITH：STONITH 是一种防止集群中的数据损坏和数据不一致的机制。它的主要功能是，当某个节点失去响应或状态异常时，通过远程“强制重启”或“电源关闭”等方式，将该节点从集群中移除，以确保集群数据的一致性。
   - 禁用 STONITH：通过将 stonith-enabled 设置为 false，可以关闭这种节点隔离功能。这样，集群在检测到节点失效时不会自动对其进行强制重启或移除，而是继续运行其它节点。
   - 使用风险：禁用 STONITH 后，如果出现节点异常，可能会带来数据不一致的风险。因此在生产环境中，通常建议开启 STONITH 以确保数据安全。
@@ -57,6 +59,8 @@ yum i
 - > /dev/null：将标准输出重定向到 /dev/null，即丢弃所有正常输出。
 - 2> /dev/null：将标准错误输出重定向到 /dev/null，即丢弃所有错误信息。
 - || true：即使命令执行失败（返回非零状态码），使用 true 使整个命令返回成功（退出状态 0），确保不会触发脚本的错误处理机制。
+
+**这里apache的启动方式也可以不用上面的方式启动，在创建完了监视资源后，直接启动监视资源，集群会自动启动apache服务，无需在这里启动 **
 
 
 - 将网页内容放到iscsi共享空间中(只在Linux6配置)

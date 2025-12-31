@@ -33,3 +33,20 @@ nmcli connection up team1-2
 nmcli connection up team1
 #查看聚合卡内容
 teamdctl skills-team1 state
+```
+
+#### 实验环境
+- Rocky Linux 10
+```shell
+#创建 bond 接口
+nmcli connection add type bond ifname bond0 mode 802.3ad con-name bond0
+
+#将物理网卡加入 bond
+nmcli connection add type bond-slave ifname ens33 master bond0 con-name bond0-ens33
+nmcli connection add type bond-slave ifname ens37 master bond0 con-name bond0-ens37
+
+#启动 bond 接口
+nmcli connection up bond0
+
+利用nmtui修改 bond0 聚合网卡地址
+```

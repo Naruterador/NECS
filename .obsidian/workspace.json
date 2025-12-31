@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d0b464c4c1331b",
+        "id": "6a8cd7c5d5c3b229",
         "type": "tabs",
         "children": [
           {
-            "id": "ebc4b33a95ab633e",
+            "id": "04c7f7b45c9788cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.中职/02.Server/01.Linux/aggNic/team.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "team"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.中职/02.Server/01.Linux/aggNic/team.md",
+                "file": "01.中职/02.Server/01.Linux/pcs_cluster/pcs_cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for team"
+              "title": "Backlinks for pcs_cluster"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.中职/02.Server/01.Linux/aggNic/team.md",
+                "file": "01.中职/02.Server/01.Linux/pcs_cluster/pcs_cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from team"
+              "title": "Outgoing links from pcs_cluster"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.中职/02.Server/01.Linux/aggNic/team.md",
+                "file": "01.中职/02.Server/01.Linux/pcs_cluster/pcs_cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of team"
+              "title": "Outline of pcs_cluster"
             }
           }
         ]
@@ -186,6 +182,9 @@
   },
   "active": "296625c60d8a9c93",
   "lastOpenFiles": [
+    "01.中职/02.Server/01.Linux/pcs_cluster/Pacemaker centos8.pdf",
+    "01.中职/02.Server/01.Linux/pcs_cluster/pcs_cluster.md",
+    "01.中职/02.Server/01.Linux/aggNic/team.md",
     "01.中职/03.历年试卷网络配置/省赛/2023年/2023_江苏省赛问题分析/问题解析.md",
     "01.中职/03.历年试卷网络配置/省赛/2023年/2023_江苏省赛问题分析",
     "01.中职/03.历年试卷网络配置/省赛/2023年",
@@ -196,7 +195,6 @@
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/SW-1.txt",
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/RT-1.txt",
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/RT-2.txt",
-    "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/FW-2.txt",
     "中职/03.历年试卷网络配置/省赛/2023年省赛/2023_江苏省赛问题分析/问题解析.md",
     "中职/03.历年试卷网络配置/2023年省赛/2023_江苏省赛问题分析/问题解析.md",
     "README.md"
