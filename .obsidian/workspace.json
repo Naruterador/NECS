@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8cd7c5d5c3b229",
+        "id": "1ffca2587b8db476",
         "type": "tabs",
         "children": [
           {
-            "id": "04c7f7b45c9788cd",
+            "id": "3fa44217a0d8fa5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01.中职/02.Server/02.Windows/gpo/GPO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GPO"
             }
           }
         ]
@@ -182,6 +186,20 @@
   },
   "active": "296625c60d8a9c93",
   "lastOpenFiles": [
+    "01.中职/02.Server/02.Windows/gpo/组策IPsec.pdf",
+    "01.中职/02.Server/02.Windows/gpo/2021年试点赛题.pdf",
+    "02.高职/02.Server/02.Windows/windows.md",
+    "01.中职/02.Server/02.Windows/gpo/GPO.md",
+    "02.高职/02.Server/01.Linux/docker/docker1/docker1.md",
+    "01.中职/02.Server/01.Linux/containerd/containerd.md",
+    "01.中职/02.Server/01.Linux/mail/mail.md",
+    "01.中职/02.Server/01.Linux/mail/mail_tools.md",
+    "01.中职/02.Server/01.Linux/mail/postfix_pop3s_smtps.pdf",
+    "01.中职/02.Server/01.Linux/nginx/nginx.md",
+    "01.中职/02.Server/01.Linux/tomcat/tomcat2.md",
+    "01.中职/02.Server/01.Linux/tomcat/tomcat1.md",
+    "01.中职/02.Server/01.Linux/nginx/ab压力测试.md",
+    "01.中职/02.Server/01.Linux/nginx/Nginx高并发调优.md",
     "01.中职/02.Server/01.Linux/pcs_cluster/Pacemaker centos8.pdf",
     "01.中职/02.Server/01.Linux/pcs_cluster/pcs_cluster.md",
     "01.中职/02.Server/01.Linux/aggNic/team.md",
@@ -193,8 +211,6 @@
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/赛题",
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/SW-2.txt",
     "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/SW-1.txt",
-    "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/RT-1.txt",
-    "01.中职/03.历年试卷网络配置/国赛/2020年试点赛/网络配置/RT-2.txt",
     "中职/03.历年试卷网络配置/省赛/2023年省赛/2023_江苏省赛问题分析/问题解析.md",
     "中职/03.历年试卷网络配置/2023年省赛/2023_江苏省赛问题分析/问题解析.md",
     "README.md"

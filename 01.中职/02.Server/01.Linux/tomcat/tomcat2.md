@@ -57,13 +57,13 @@ vim /opt/tomcat/conf/server.xml
 <Connector port="80" protocol="HTTP/1.1"
                connectionTimeout="20000"
                redirectPort="443" />
-    <!-- A "Connector" using the shared thread pool-->
+    <!-- A "Connector" using the shared thread pool -->
     <!--
     <Connector executor="tomcatThreadPool"
                port="80" protocol="HTTP/1.1"
                connectionTimeout="20000"
-               redirectPort="443" />
-
+               redirectPort="443" /> -->
+    
 
     <Connector port="443" protocol="HTTP/1.1"
                maxThreads="150" SSLEnabled="true">
