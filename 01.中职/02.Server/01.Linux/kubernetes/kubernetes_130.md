@@ -5,6 +5,7 @@
 
 ## 解:
 ```shell    
+#创建自签名证书
 openssl genpkey -algorithm RSA -out server.key
 openssl req -new -key server.key -out server.csr
 openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
@@ -28,12 +29,12 @@ data:
             root   /usr/share/nginx/html;
             index  index.html index.htm;
             add_header Content-Type text/plain;
-            return 200 'HelloKubernetes\n';
+            return 200 'HelloKubernetes\n';  
         }
     }
   https.conf: |
     server {
-        listen       443 ssl;
+        listen 443 ssl;
         server_name  localhost;
         ssl_certificate /etc/nginx/ssl/tls.crt;
         ssl_certificate_key /etc/nginx/ssl/tls.key;

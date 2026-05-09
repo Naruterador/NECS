@@ -46,3 +46,8 @@ networking:
   serviceSubnet: 10.96.0.0/12
 scheduler: {}
 ```
+
+## 启动集群
+```
+kubeadm init --config /root/k8s-init/k8s.yaml
+```

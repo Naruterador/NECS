@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "907471c163de636b",
+        "id": "9106f841da739f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "3877a893f647350f",
+            "id": "52029fa30344cc91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.中职/02.Server/01.Linux/CICD/jenkins/02.jenkins配置持续集成.md",
+                "file": "01.中职/02.Server/01.Linux/kubernetes/kubernetes_130.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.jenkins配置持续集成"
+              "title": "kubernetes_130"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5026054382324
   },
   "right": {
     "id": "71721a581e59aa75",
@@ -184,24 +184,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "296625c60d8a9c93",
+  "active": "52029fa30344cc91",
   "lastOpenFiles": [
-    "01.中职/02.Server/01.Linux/CICD/jenkins/01.jenkins部署.md",
-    "01.中职/02.Server/01.Linux/CICD/gitlab/01.gitlab部署.md",
+    "01.中职/02.Server/03.Script/script12.md",
+    "01.中职/02.Server/03.Script/script11.md",
+    "01.中职/02.Server/03.Script/script0.md",
+    "01.中职/02.Server/03.Script/script8.md",
+    "01.中职/02.Server/03.Script/script9.md",
+    "01.中职/02.Server/03.Script/script10.md",
+    "01.中职/02.Server/03.Script/script7.md",
+    "01.中职/02.Server/03.Script/script6.md",
+    "01.中职/02.Server/03.Script/script5.md",
+    "01.中职/02.Server/03.Script/script4.md",
+    "01.中职/02.Server/03.Script/script3.md",
+    "01.中职/02.Server/03.Script/script2.md",
+    "01.中职/02.Server/03.Script/script1.md",
+    "01.中职/02.Server/01.Linux/kubernetes/kubernetes_130.md",
     "01.中职/02.Server/01.Linux/ftp/pure-ftpd/02.pure-ftpd赛题解析.md",
-    "01.中职/02.Server/04.AI/01.2026年江苏省赛AI部署/02.Dify+ollama 离线部署.md",
-    "01.中职/02.Server/04.AI/01.2026年江苏省赛AI部署/03.Dify离线安装插件教程.md",
-    "01.中职/02.Server/04.AI/01.2026年江苏省赛AI部署/04.用户提示词.md",
-    "01.中职/02.Server/04.AI/01.2026年江苏省赛AI部署/01.其他配置.md",
-    "01.中职/02.Server/01.Linux/ca/CA.md",
-    "01.中职/02.Server/01.Linux/podman/podman.md",
-    "01.中职/02.Server/01.Linux/iscsi/iscsi.md",
-    "01.中职/02.Server/01.Linux/nfs/nfs.md",
-    "01.中职/02.Server/01.Linux/kubernetes/kubernetes.md",
+    "01.中职/02.Server/01.Linux/ftp/pure-ftpd/01.pure-ftpd部署.md",
+    "01.中职/02.Server/01.Linux/redis/02.redis哨兵/redis-sentinel.md",
+    "01.中职/02.Server/02.Windows/用户导入/import-user.md",
+    "01.中职/02.Server/02.Windows/windows域迁移/windows域迁移.md",
+    "02.高职/02.Server/02.Windows/windows.md",
+    "01.中职/02.Server/02.Windows/ntp/NTP.md",
     "01.中职/02.Server/01.Linux/kubernetes/k8sinit.md",
-    "01.中职/02.Server/01.Linux/kubernetes/kubernetes(iscsi磁盘).md",
-    "01.中职/02.Server/01.Linux/docker/Docker.md",
-    "01.中职/02.Server/01.Linux/CICD/jenkins/02.jenkins配置持续集成.md",
+    "01.中职/02.Server/01.Linux/freeipa/Freeipa1.md",
+    "01.中职/02.Server/01.Linux/tcpdump/tcpdump.md",
+    "01.中职/02.Server/01.Linux/files/c4.md",
+    "01.中职/02.Server/01.Linux/files/c3.md",
+    "01.中职/Pics/p1.png",
     "g6.png",
     "01.中职/02.Server/01.Linux/CICD/pics/g5.png",
     "01.中职/02.Server/01.Linux/CICD/pics/g4.png",
@@ -213,24 +224,13 @@
     "01.中职/02.Server/01.Linux/CICD/pics",
     "01.中职/02.Server/01.Linux/CICD/jenkins",
     "01.中职/02.Server/01.Linux/CICD",
-    "01.中职/02.Server/01.Linux/ftp/pure-ftpd/01.pure-ftpd部署.md",
     "01.中职/02.Server/01.Linux/ftp/pure-ftpd",
-    "01.中职/02.Server/01.Linux/redis/04.redis.md",
-    "01.中职/02.Server/01.Linux/redis/03.redis.md",
-    "01.中职/02.Server/01.Linux/containerd/containerd.md",
-    "01.中职/02.Server/01.Linux/database/mariadb/mariadb.md",
-    "01.中职/02.Server/01.Linux/database/mariadb/mariadb_replication.md",
-    "01.中职/02.Server/01.Linux/database/postgresql/导出数据.md",
     "01.中职/Pics/p8.png",
-    "01.中职/02.Server/01.Linux/mail/mail.md",
-    "01.中职/02.Server/01.Linux/mail/mail_tools.md",
     "01.中职/02.Server/01.Linux/mail/postfix_pop3s_smtps.pdf",
-    "01.中职/02.Server/01.Linux/Minio/Minio分布式部署.md",
     "02.高职/02.Server/01.Linux/基本网络配置",
     "02.高职/01.Network/锐捷网络设备配置总结.zip",
     "02.高职/01.Network/网络设备配置.zip",
     "01.中职/02.Server/04.AI/01.2026年江苏省赛AI部署",
-    "01.中职/02.Server/04.AI/pics/p3.png",
-    "01.中职/02.Server/04.AI/pics/Screenshot 2026-02-04 at 23.12.41.png"
+    "01.中职/02.Server/04.AI/pics/p3.png"
   ]
 }
