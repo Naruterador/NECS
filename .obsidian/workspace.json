@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.中职/02.Server/01.Linux/kubernetes/kubernetes_130.md",
+                "file": "01.中职/02.Server/01.Linux/CICD/jenkins/02.jenkins配置持续集成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kubernetes_130"
+              "title": "02.jenkins配置持续集成"
             }
           }
         ]
@@ -186,6 +186,19 @@
   },
   "active": "52029fa30344cc91",
   "lastOpenFiles": [
+    "01.中职/02.Server/01.Linux/CICD/pics/g6.png",
+    "01.中职/02.Server/01.Linux/CICD/gitlab/01.gitlab部署.md",
+    "01.中职/02.Server/01.Linux/CICD/jenkins/01.jenkins部署.md",
+    "01.中职/02.Server/01.Linux/CICD/jenkins/02.jenkins配置持续集成.md",
+    "01.中职/02.Server/01.Linux/redis/04.redis.md",
+    "01.中职/02.Server/01.Linux/redis/03.redis.md",
+    "01.中职/02.Server/01.Linux/CICD/pics/g5.png",
+    "01.中职/02.Server/01.Linux/CICD/pics/g4.png",
+    "01.中职/02.Server/01.Linux/CICD/pics/g3.png",
+    "01.中职/02.Server/01.Linux/CICD/pics/g2.png",
+    "01.中职/02.Server/01.Linux/CICD/pics/g1.png",
+    "01.中职/02.Server/01.Linux/CICD/pics/j1.png",
+    "01.中职/02.Server/01.Linux/kubernetes/kubernetes_130.md",
     "01.中职/02.Server/03.Script/script12.md",
     "01.中职/02.Server/03.Script/script11.md",
     "01.中职/02.Server/03.Script/script0.md",
@@ -199,27 +212,14 @@
     "01.中职/02.Server/03.Script/script3.md",
     "01.中职/02.Server/03.Script/script2.md",
     "01.中职/02.Server/03.Script/script1.md",
-    "01.中职/02.Server/01.Linux/kubernetes/kubernetes_130.md",
     "01.中职/02.Server/01.Linux/ftp/pure-ftpd/02.pure-ftpd赛题解析.md",
     "01.中职/02.Server/01.Linux/ftp/pure-ftpd/01.pure-ftpd部署.md",
     "01.中职/02.Server/01.Linux/redis/02.redis哨兵/redis-sentinel.md",
     "01.中职/02.Server/02.Windows/用户导入/import-user.md",
     "01.中职/02.Server/02.Windows/windows域迁移/windows域迁移.md",
     "02.高职/02.Server/02.Windows/windows.md",
-    "01.中职/02.Server/02.Windows/ntp/NTP.md",
-    "01.中职/02.Server/01.Linux/kubernetes/k8sinit.md",
-    "01.中职/02.Server/01.Linux/freeipa/Freeipa1.md",
-    "01.中职/02.Server/01.Linux/tcpdump/tcpdump.md",
-    "01.中职/02.Server/01.Linux/files/c4.md",
-    "01.中职/02.Server/01.Linux/files/c3.md",
     "01.中职/Pics/p1.png",
     "g6.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/g5.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/g4.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/g3.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/g1.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/g2.png",
-    "01.中职/02.Server/01.Linux/CICD/pics/j1.png",
     "01.中职/02.Server/01.Linux/CICD/gitlab",
     "01.中职/02.Server/01.Linux/CICD/pics",
     "01.中职/02.Server/01.Linux/CICD/jenkins",
